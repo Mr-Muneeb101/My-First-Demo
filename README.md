@@ -1,3 +1,5 @@
-#My-First=-Repository
-This is my first github repository 
-Author-Shaikh Muneeb Ahmed
+<h1>MY-First-Repository</h1>
+<br>
+This is my first repository.
+<br>
+Authir - Shaikh Muneeb Ahmed.
