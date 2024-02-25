@@ -1,2 +1,3 @@
-# My-First-Demo
-This is my first git hub reposiotry
+#My-First=-Repository
+This is my first github repository 
+Author-Shaikh Muneeb Ahmed
